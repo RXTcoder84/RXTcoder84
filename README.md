@@ -1,9 +1,6 @@
 - 👋 Hello there peep, I’m @RXTcoder84
 - 👀 I’m interested in sports!
 - 🌱 I’m currently learning python in coding.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: I really have no idea
-- - 😄 Pronouns: ...
 - ⚡ Fun fact: I hate cake
 
 <!---
